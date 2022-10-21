@@ -1,3 +1,2 @@
-# Eyes
-## Exercise on eyes
-<img src= "oneeye.png" width='300'/>
+# Real Time Bus Tracker
+## Real Time Bus Tracker Exercise
