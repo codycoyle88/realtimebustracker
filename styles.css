@@ -6,3 +6,10 @@ body { margin: 0; padding: 0; }
   left: 0;
   padding: 10px;
 }
+
+.button{
+  background-color: rgb(224, 198, 198);
+  color: black;
+  border: 3px solid #15e21c; /* Green */
+  border-radius: 5px;
+}
