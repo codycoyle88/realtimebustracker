@@ -11,4 +11,4 @@ This is a little program to cycle throught the STA Rout3 90 stops when prompted.
 2. Add custom icon for bus movements.
 3. Add additional functionality to map. 
 
-<img src= "STARoute.png" width='300'/>
+<img src= "STARoute.png" width='500'/>
