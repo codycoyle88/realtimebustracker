@@ -1,6 +1,6 @@
 # Real Time Bus Tracker Exercise
 
-This is a little program to cycle throught the STA Rout3 90 stops when prompted. 
+This is a little program to cycle throught the STA Route 90 stops when prompted. 
 
 ## How to use
 1. Load the page and select the button at the top of the page. 
